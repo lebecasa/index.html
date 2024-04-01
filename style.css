@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap");
 
 :root {
     --cor-de-fundo: #1E1E1E;
@@ -37,7 +37,7 @@ body {
 }
 
 .botao {
-    font-family: "Crakra Petch", sans-serif;
+    font-family: "Caveat", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
